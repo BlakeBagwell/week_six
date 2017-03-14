@@ -64,4 +64,4 @@ console.log(battleship.fire(0,0));
 
 //but I chose to assign it all to a variable. And then refer to the varible later with battleship.functionThatWasReturned(now I supply the arguments of said function)
 
-//******* we grant the user access only to what we return in the function. The function still uses board, but we only need them to have access to the fire function. 
+//******* we grant the user access only to what we return in the function. The function still uses board, but we only need them to have access to the fire function.
